@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "InsaneSecurity"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Maluko"
 description              : "An insanely website about security."
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
+google_site_verification : p29QL2DmFkDB9tP5FuhD7RerN_w6rLH9mbew7mQxXxo
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
